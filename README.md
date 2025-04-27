@@ -41,7 +41,7 @@ Want to tweak the board size, colors, or animation? Everything is modular and ea
 
 ## ✨ Credits
 
-Made with 💙 by [Your Name](https://github.com/dipanshunamdev799)
+Made with 💙 by [Dipanshu Namdev](https://github.com/dipanshunamdev799)
 
 ## 📄 License
 
