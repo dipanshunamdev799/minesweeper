@@ -3,7 +3,7 @@
 
 A beautifully styled, fully functional Minesweeper game built with just **HTML**, **CSS**, and **JavaScript** — no libraries or frameworks required.
 
-![Game Screenshot](https://user-images.githubusercontent.com/your-username/elegant-minesweeper-screenshot.png)
+![Game Screenshot](https://user-images.githubusercontent.com/dipanshunamdev799/elegant-minesweeper-screenshot.png)
 
 ## 🎮 Features
 
@@ -25,8 +25,8 @@ A beautifully styled, fully functional Minesweeper game built with just **HTML**
 3. Start playing Minesweeper!
 
 ```bash
-git clone https://github.com/your-username/elegant-minesweeper.git
-cd elegant-minesweeper
+git clone https://github.com/dipanshunamdev799/minesweeper.git
+cd minesweeper
 open game.html  # or just double-click it
 ```
 
@@ -38,16 +38,11 @@ Want to tweak the board size, colors, or animation? Everything is modular and ea
 - Difficulty configuration in JavaScript
 - Grid layout and animations
 
-## 📸 Preview
-
-| Easy | Medium | Hard |
-|------|--------|------|
-| ![Easy](https://user-images.githubusercontent.com/your-username/easy-preview.png) | ![Medium](https://user-images.githubusercontent.com/your-username/medium-preview.png) | ![Hard](https://user-images.githubusercontent.com/your-username/hard-preview.png) |
 
 ## ✨ Credits
 
-Made with 💙 by [Your Name](https://github.com/your-username)
+Made with 💙 by [Your Name](https://github.com/dipanshunamdev799)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
