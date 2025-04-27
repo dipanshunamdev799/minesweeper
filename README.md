@@ -3,7 +3,7 @@
 
 A beautifully styled, fully functional Minesweeper game built with just **HTML**, **CSS**, and **JavaScript** — no libraries or frameworks required.
 
-![Game Screenshot](https://user-images.githubusercontent.com/dipanshunamdev799/elegant-minesweeper-screenshot.png)
+![Game Screenshot](https://github.com/dipanshunamdev799/minesweeper/blob/main/elegant-minesweeer-screenshot.png)
 
 ## 🎮 Features
 
