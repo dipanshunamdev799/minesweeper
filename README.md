@@ -5,6 +5,8 @@ A beautifully styled, fully functional Minesweeper game built with just **HTML**
 
 ![Game Screenshot](https://github.com/dipanshunamdev799/minesweeper/blob/main/elegant-minesweeer-screenshot.png)
 
+## Live : [Link](https://dipanshunamdev799.github.io/minesweeper/)
+
 ## 🎮 Features
 
 - 🎨 Sleek and responsive UI with animations and modern design
